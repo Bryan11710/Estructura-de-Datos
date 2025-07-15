@@ -1,0 +1,15 @@
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.exe
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.deps.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.runtimeconfig.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.pdb
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.AssemblyInfoInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.AssemblyInfo.cs
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.csproj.CoreCompileInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.sourcelink.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\refint\PracticoExperimental2.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.pdb
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.genruntimeconfig.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\PracticoExperimental2\obj\Debug\net9.0\ref\PracticoExperimental2.dll

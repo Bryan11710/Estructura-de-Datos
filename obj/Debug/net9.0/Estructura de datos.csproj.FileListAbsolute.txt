@@ -1,0 +1,5 @@
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\obj\Debug\net9.0\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\obj\Debug\net9.0\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\obj\Debug\net9.0\Estructura de datos.AssemblyInfo.cs
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\obj\Debug\net9.0\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\obj\Debug\net9.0\Estructura de datos.sourcelink.json

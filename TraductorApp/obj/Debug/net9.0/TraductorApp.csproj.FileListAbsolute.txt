@@ -1,0 +1,15 @@
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\bin\Debug\net9.0\TraductorApp.exe
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\bin\Debug\net9.0\TraductorApp.deps.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\bin\Debug\net9.0\TraductorApp.runtimeconfig.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\bin\Debug\net9.0\TraductorApp.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\bin\Debug\net9.0\TraductorApp.pdb
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.AssemblyInfoInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.AssemblyInfo.cs
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.csproj.CoreCompileInputs.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.sourcelink.json
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\refint\TraductorApp.dll
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.pdb
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\TraductorApp.genruntimeconfig.cache
+C:\Users\bryco\OneDrive\Escritorio\Estructura de datos\TraductorApp\obj\Debug\net9.0\ref\TraductorApp.dll

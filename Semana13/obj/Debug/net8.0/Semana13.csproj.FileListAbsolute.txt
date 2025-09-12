@@ -1,0 +1,5 @@
+/home/bryan7777/Documentos/Estructura-de-Datos/Semana13/obj/Debug/net8.0/Semana13.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan7777/Documentos/Estructura-de-Datos/Semana13/obj/Debug/net8.0/Semana13.AssemblyInfoInputs.cache
+/home/bryan7777/Documentos/Estructura-de-Datos/Semana13/obj/Debug/net8.0/Semana13.AssemblyInfo.cs
+/home/bryan7777/Documentos/Estructura-de-Datos/Semana13/obj/Debug/net8.0/Semana13.csproj.CoreCompileInputs.cache
+/home/bryan7777/Documentos/Estructura-de-Datos/Semana13/obj/Debug/net8.0/Semana13.sourcelink.json
